@@ -1,0 +1,2 @@
+Prize ID: 2222, Description: Cups, Value: 5, Donation Limit: 100, Original Available: 10, Current Available: 5, Sponsor ID: 1111
+Prize ID: 3333, Description: Table, Value: 30, Donation Limit: 600, Original Available: 5, Current Available: 5, Sponsor ID: 1111
